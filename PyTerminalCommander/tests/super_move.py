@@ -1,6 +1,6 @@
 import unittest
 
-from PyTerminalCommander import super_move
+from PyTerminalCommander.Command import super_move
 
 class Tests(unittest.TestCase):
     def test_basic(self):

@@ -9,7 +9,7 @@ import os
 import traceback
 import time
 
-from PyTerminalCommander import Commander, CommandHandler, CommanderPopupLauncher
+from PyTerminalCommander.Command import Commander, CommandHandler, CommanderPopupLauncher
 
 if __name__=='__main__':
     # Define the handler
